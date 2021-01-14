@@ -1,0 +1,13 @@
+section{
+  text-align:center;
+  margin:auto;
+  color:black;
+  font-weight: bold;
+  
+}
+.form-control{
+  padding:10px;
+  background-color:darkgoldenrod;
+  color:black;
+  display: -moz-popup;
+}
